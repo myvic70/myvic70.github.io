@@ -10,7 +10,7 @@ By analyzing data like the Total Amount, Product Category, and Age Bracket, we w
  **Key findings:**Total Sales Amount by Gender
 Men make up 51·06 % of all sales and women contribute 48·94 %. This discovery aids businesses in determining which gender is driving revenue and whether they should prioritize targeting certain genders more effectively. 
 
-Total Sales per Category
+**Total Sales per Category**
 In terms of sales distribution across categories, Electronics and clothing account for the percentage of 34% each followed closely by clothing at 32%.
 This discovery would bring attention to the sought after product categories and guide the company in focusing its inventory and marketing strategies, on these high selling categories. 
 
